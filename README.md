@@ -42,8 +42,8 @@ A robust spoof detection system that uses **DeepFace** to analyze and classify l
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/spoof-detection-model.git
-   cd spoof-detection-model
+   git clone https://github.com/ash_vp/Spoof-Detection/main.git
+   cd Spoof-Detection
    ```
 
 2. **Install Dependencies**  
