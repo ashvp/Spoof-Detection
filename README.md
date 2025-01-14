@@ -20,7 +20,7 @@ A robust spoof detection system that uses **DeepFace** to analyze and classify l
 
 ```plaintext
 .
-├── spoof_detection.py   # Main script to run the application
+├── main.py   # Main script to run the application
 ├── image.jpg            # Captured image (automatically created)
 ├── requirements.txt     # Python dependencies
 └── LICENSE              # MIT License
